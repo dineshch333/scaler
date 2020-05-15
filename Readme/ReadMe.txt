@@ -1,0 +1,1 @@
+This Repository contains all Also and Ds Problems solved by from Scaler academy.
